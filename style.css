@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    transition: all .3s ease-out;
+    text-transform: uppercase;
+    font-weight: normal;
+    box-sizing: border-box;
+    outline: none; border: none;
+    text-decoration: none;
+  }
+  
+  :root {
+    --cor-primaria: #6c63ff;
+    --cor-sucesso: #00bf8e;
+    --cor-alerta: #f7c94b;
+    --cor-perigo: #f75842;
+    --cor-perigo-variante: rgba(247, 88, 66, 0.4);
+    --cor-branco: #fff;
+    --cor-clara: rgba(255, 255, 255, 0.7);
+    --cor-escura: #000;
+    --cor-bg: #1f2641;
+    --cor-bg1: #2e3267;
+    --cor-bg2: #424890;
+  
+    --container-width-lg: 80%;
+    --container-width-md: 90%;
+    --container-width-sm: 94%;
+      
+  }
+  
+  body {
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.7;
+    background: var(--cor-bg);
+    min-height: 100vh;    
+    background-image: url(img/bg-texture.png);
+  }

@@ -1,6 +1,8 @@
 # Curso-JS-Atividade-Navbar
 
-Projeto de desenvolvimento Navbar II - Atividade curso JS
+Projeto de desenvolvimento Rotating Loading 
+
+Atividade curso Web
 
 ## Tarefas
 
