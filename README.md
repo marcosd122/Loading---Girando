@@ -1,4 +1,4 @@
-# Curso-JS-Atividade-Navbar
+# Curso-WEB--Atividade-Navbar
 
 Projeto de desenvolvimento Rotating Loading 
 
