@@ -32,7 +32,7 @@
     display: flex;    
     align-items: center;
     justify-content: center;    
-    background: var(--cor-primaria);    
+    background: var(--cor-bg);    
     background-image: url(img/bg-texture.png);
   }
 
